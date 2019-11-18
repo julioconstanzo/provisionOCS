@@ -1,4 +1,4 @@
-#!/in/bash
+#!/bin/bash
 
 echo "THIS IS MY FIRST PROVISIONING" 
 sudo useradd Pluton1
